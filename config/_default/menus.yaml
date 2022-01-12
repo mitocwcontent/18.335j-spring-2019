@@ -1,0 +1,69 @@
+leftnav:
+- identifier: c9f4954b-780b-4086-171e-810d3bd7f338
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 6fa1169a-31fc-a711-1a1f-4724bd97c8c3
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 6950d4a0-73bc-0d04-aa63-962ae31c42a2
+  name: Week 1
+  url: /pages/week-1
+  weight: 30
+- identifier: e81728f3-82ce-c39a-1a67-9d027dc38ee9
+  name: Week 2
+  url: /pages/week-2
+  weight: 40
+- identifier: f2a1f98a-ee29-8315-0738-08d44f781e38
+  name: Week 3
+  url: /pages/week-3
+  weight: 50
+- identifier: 0b66ee6d-f323-1973-fa0b-b51b7f5d56aa
+  name: Week 4
+  url: /pages/week-4
+  weight: 60
+- identifier: a4d71ca2-18aa-0275-e844-5a9cbf900105
+  name: Week 5
+  url: /pages/week-5
+  weight: 70
+- identifier: 442a963d-d193-26e6-068e-1510d4c866d4
+  name: Week 6
+  url: /pages/week-6
+  weight: 80
+- identifier: affe9479-9772-5585-db9a-db2649d56ea8
+  name: Week 7
+  url: /pages/week-7
+  weight: 90
+- identifier: b1ca5a43-353d-d5e4-5a41-cddf22a430cf
+  name: Week 8
+  url: /pages/week-8
+  weight: 100
+- identifier: 79b67382-5292-f6a0-b115-ef7aad0acfff
+  name: Week 9
+  url: /pages/week-9
+  weight: 110
+- identifier: 11a637d9-eeaf-6a4b-61b1-048f51780804
+  name: Week 10
+  url: /pages/week-10
+  weight: 120
+- identifier: 29b83d59-c75d-f1e9-d0bc-358816146102
+  name: Week 11
+  url: /pages/week-11
+  weight: 130
+- identifier: dd105dfc-a5c9-7a7d-ef21-71a11a6c112d
+  name: Week 12
+  url: /pages/week-12
+  weight: 140
+- identifier: f0c2e826-9307-e9b8-dfff-15f04276fcac
+  name: Week 13
+  url: /pages/week-13
+  weight: 150
+- identifier: 91f42844-de39-df8a-3812-24c45f7815b4
+  name: Week 14
+  url: /pages/week-14
+  weight: 160
+- identifier: a9c2d531-64af-008e-1a39-c3f4d0d21aed
+  name: Resource Index
+  url: /pages/resource-index
+  weight: 170
